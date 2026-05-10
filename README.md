@@ -14,6 +14,9 @@ This macro-enabled workbook allows users to create folders, rename files, copy/m
 ## Purpose
 Designed to reduce manual workload, eliminate repetitive tasks, and improve accuracy in daily operations.
 
+## How to Use
+The workbook includes a dedicated Instructions sheet and on‑sheet reminders that guide users through each operation. Simply open the file, review the instructions, and click the buttons to run automations.
+
 ## Impact
 - Reduced repetitive manual tasks by over 70%  
 - Improved consistency in file naming and organization  
