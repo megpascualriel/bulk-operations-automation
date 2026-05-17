@@ -3,6 +3,9 @@
 An Excel-based automation suite designed to simplify repetitive file management tasks.  
 This macro-enabled workbook allows users to create folders, rename files, copy/move documents, convert Excel files to PDF, and combine PDFs — all from a single interface.
 
+## Preview
+![DPreview](Screenshot_Interface.png)
+
 ## Features
 - Create multiple folders in one click  
 - Generate file lists from a selected directory  
